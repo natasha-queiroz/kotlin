@@ -12,4 +12,15 @@ fun main() {
     var i: UInt = 12u// positivo
 
     println(x)
+    println(x)
+    println(x)
+    println(x)
+    println(x)
+    println(x)
+    println(x)
+    println(x)
+    println(x)
+    println(x)
+    println(x)
+    
 }
