@@ -11,16 +11,16 @@ fun main() {
     var a: Byte 
     var e: UInt = 12u// positivo
 
-    println(x)
-    println(y)
-    println(z)
-    println(s)
-    println(a)
-    println(d)
-    println(c)
-    println(v)
-    println(f)
-    println(g)
     println(i)
+    println(x)
+    println(g)
+    println(c)
+    println(d)
+    println(h)
+    println(k)
+    println(n)
+    println(m)
+    println(a)
+    println(e)
     
 }
