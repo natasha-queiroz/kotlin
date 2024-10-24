@@ -1,6 +1,8 @@
 fun main() {
     println("Me chamo Natasha e tenho 25 anos")
 
+//adicionei esse conteudo de baixo
+
     var i: Int = 18//variavel mutavel
     val x: Int //variavel imutavel
     var g: Float = 10.05f

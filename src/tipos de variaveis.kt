@@ -1,26 +1,26 @@
 fun main() {
-    var i: Int = 18//variavel mutavel
-    val x: Int //variavel imutavel
-    var g: Float = 10.05f
-    var c: Double = 3.18445
-    var d: Long = 101001010001
-    var h: Char = 'f'
-    var k: String = "ana"
-    var n: Short = 100
-    var m: Byte = 0b1010
-    var a: Byte 
-    var e: UInt = 12u// positivo
+    var a: Int = 18//variavel mutavel
+    val b: Int //variavel imutavel
+    var c: Float = 10.05f
+    var d: Double = 3.18445
+    var e: Long = 101001010001
+    var f: Char = 'f'
+    var g: String = "ana"
+    var h: Short = 100
+    var i: Byte = 0b1010
+    var j: Byte 
+    var k: UInt = 12u// positivo
 
-    println(i)
-    println(x)
-    println(g)
+    println(a)
+    println(b)
     println(c)
     println(d)
-    println(h)
-    println(k)
-    println(n)
-    println(m)
-    println(a)
     println(e)
+    println(f)
+    println(g)
+    println(h)
+    println(i)
+    println(j)
+    println(k)
     
 }
