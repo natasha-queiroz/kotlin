@@ -1,5 +1,7 @@
-fun main() {
-    var a: Int = 18//variavel mutavel
+fun main() 
+
+{
+    var a: Int = 18 //variavel mutavel
     val b: Int //variavel imutavel
     var c: Float = 10.05f
     var d: Double = 3.18445
@@ -9,7 +11,7 @@ fun main() {
     var h: Short = 100
     var i: Byte = 0b1010
     var j: Byte 
-    var k: UInt = 12u// positivo
+    var k: UInt = 12u // positivo
 
     println(a)
     println(b)
