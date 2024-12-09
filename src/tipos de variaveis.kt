@@ -13,9 +13,9 @@ fun main()
     var j: Byte 
     var k: UInt = 12u // positivo
 
-    println(a)
-    println(b)
-    println(c)
+    println(l)
+    println(m)
+    println(n)
     println(d)
     println(e)
     println(f)
