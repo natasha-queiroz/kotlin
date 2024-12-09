@@ -1,10 +1,10 @@
 fun main() 
 
 {
-    var a: Int = 18 //variavel mutavel
-    val b: Int //variavel imutavel
+    var l: Int = 18 //variavel mutavel
+    val m: Int //variavel imutavel
     var c: Float = 10.05f
-    var d: Double = 3.18445
+    var n: Double = 3.18445
     var e: Long = 101001010001
     var f: Char = 'f'
     var g: String = "ana"
