@@ -1,9 +1,9 @@
 fun main() 
 
 {
-    var l: Int = 18 //variavel mutavel
-    val m: Int //variavel imutavel
-    var n: Float = 10.05f
+    var : Int = 18 //variavel mutavel
+    val : Int //variavel imutavel
+    var : Float = 10.05f
     var d: Double = 3.18445
     var e: Long = 101001010001
     var f: Char = 'f'
