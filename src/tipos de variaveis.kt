@@ -1,7 +1,7 @@
 fun main() 
 
 {
-    var : Int = 18 //variavel mutavel
+    var a: Int = 18 //variavel mutavel
     var b: Int //variavel imutavel
     var c: Float = 10.05f
     var d: Double = 3.18445
@@ -13,16 +13,16 @@ fun main()
     var j: Byte 
     var k: UInt = 12u // positivo
 
-    println(k)
-    println(j)
-    println(i)
-    println(h)
-    println(g)
-    println(f)
-    println(e)
-    println(d)
-    println(c)
-    println(b)
     println(a)
+    println(b)
+    println(c)
+    println(d)
+    println(e)
+    println(f)
+    println(g)
+    println(h)
+    println(i)
+    println(j)
+    println(k)
     
 }
