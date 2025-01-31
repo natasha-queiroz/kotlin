@@ -7,7 +7,7 @@ fun main()
     var d: Double = 3.18445
     var e: Long = 101001010001
     var f: Char = 'f'
-    var g: String = "ana"
+    var g: String = "ana m"
     var h: Short = 100
     var i: Byte = 0b1010
     var j: Byte 
