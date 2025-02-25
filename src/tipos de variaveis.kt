@@ -20,9 +20,9 @@ fun main()
     println(e)
     println(f)
     println(g)
-    println(h)
-    println(i)
-    println(j)
-    println(k)
+    println(d)
+    println(c)
+    println(b)
+    println(a)
     
 }
